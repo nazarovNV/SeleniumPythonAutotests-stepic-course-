@@ -12,3 +12,4 @@ def test_input_text(expected_result, actual_result):
 expected_result2=input("Введите значение 1")
 actual_result2=input("Введите значение 2")
 test_input_text(expected_result2, actual_result2)
+# Тест второго коммита
