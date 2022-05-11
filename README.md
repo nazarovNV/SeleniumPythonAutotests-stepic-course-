@@ -1,3 +1,3 @@
 # Прохождение курса "Автоматизация тестирования с помощью Selenium и Python"
-Домашнее задание по курсу разработки автоматических тестов на Python (https://stepik.org/lesson/187065/step/4?unit=161976)
+Ссылка на курс https://stepik.org/course/575/syllabus
 По всем вопросах пишите мне в ТГ @nazarov_nv
